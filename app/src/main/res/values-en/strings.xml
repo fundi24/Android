@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MotDePasse1">Password</string>
+    <string name="MotDePasse2">Confirm password</string>
+    <string name="Inscription">Register</string>
+    <string name="Connexion">Log in</string>
+    <string name="But_Register_Form">Registration</string>
+    <string name="ToastIdError">Id is not valid</string>
+    <string name="ToastMotDePasseError">Password is not valid</string>
+    <string name="ToastMotDePasseError2">Passwords do not match</string>
+    <string name="ToastNumError">Error num</string>
+    <string name="ToastRegisterSucced">Account created</string>
+    <string name="ToastLoginError">Connection failed</string>
+    <string name="ToastLoginSucced">Connection succed</string>
+    <string name="But_Deconnexion">Log out</string>
+    <string name="But_ObjetASuivre_Page">Lists of objects to follow</string>
+    <string name="But_AddObject_Form">Add a object</string>
+    <string name="ToastLogOutSucced">Log out successful</string>
+    <string name="Nom">Name</string>
+    <string name="Prix">Price</string>
+    <string name="ToastLocalisationSucced">The location has been checked</string>
+    <string name="Type1" >DIY</string>
+    <string name="Type2">Video games</string>
+    <string name="Type3">Music</string>
+    <string name="But_Validation">Validate</string>
+    <string name="ErrorChoose">Please select a choice</string>
+    <string name="ToastNameError">The name is invalid</string>
+    <string name="ToastTypeError">The type is invalid</string>
+    <string name="ToastPriceError">The price  is invalid</string>
+    <string name="ToastDescriptionError">The description  is invalid</string>
+    <string name="ToastAddObjectSucced">The objects has been added</string>
+    <string name="But_Validation2">Add</string>
+    <string name="ToastObjectsSucced">The objects are up to date</string>
+    <string name="ToastAddTrackedObjectSucced">Added to the list successful</string>
+    <string name="PseudoVendeur">Seller\'s pseudo</string>
+    <string name="DistanceObjet">Distance from the object</string>
+    <string name="But_delete">Delete</string>
+    <string name="ToastDelObjectSucced">Object successfully deleted</string>
+    <string name="Distance">Distance from the object</string>
+    <string name="Descriptif">Description</string>
+    <string name="Identifiant">Id</string>
+</resources>

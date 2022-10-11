@@ -1,0 +1,45 @@
+<resources>
+    <string name="Identifiant">Identifiant</string>
+    <string name="MotDePasse1">Mot de passe</string>
+    <string name="MotDePasse2">Confirmer le mot de passe</string>
+    <string name="Inscription">S\'inscrire</string>
+    <string name="Connexion">Se connecter</string>
+    <string name="But_Register_Form">Inscription</string>
+    <string name="ToastIdError">L\'identifiant n\'est pas valide</string>
+    <string name="ToastMotDePasseError">Le mot de passe n\'est pas valide</string>
+    <string name="ToastMotDePasseError2">Les mots de passe ne correspondent pas</string>
+    <string name="ToastNumError">Erreur num </string>
+    <string name="ToastRegisterSucced">Compte créé</string>
+    <string name="ToastLoginError">Connexion échouée</string>
+    <string name="ToastLoginSucced">Connexion réussie</string>
+    <string name="But_Deconnexion">Deconnexion</string>
+    <string name="But_ObjetASuivre_Page">Liste des objets à suivre</string>
+    <string name="But_AddObject_Form">Ajouter un objet</string>
+    <string name="ToastLogOutSucced">Deconnexion réussie</string>
+    <string name="Nom">Nom</string>
+    <string name="Type" translatable="false">Type</string>
+    <string name="Prix">Prix</string>
+    <string name="ChooseType" translatable="false">V</string>
+    <string name="Type1">Bricolage</string>
+    <string name="Type2">Jeu vidéo</string>
+    <string name="Type3">Musique</string>
+    <string name="But_Validation">Valider</string>
+    <string name="ErrorChoose">Veuillez selectionner un choix !</string>
+    <string name="ToastNameError">Le nom est invalide</string>
+    <string name="ToastTypeError">Le type est invalide</string>
+    <string name="ToastPriceError">Le prix est invalide</string>
+    <string name="ToastDescriptionError">La description est invalide</string>
+    <string name="ToastAddObjectSucced">L\'objet a été ajouté</string>
+    <string name="But_Validation2">Ajouter</string>
+    <string name="ToastObjectsSucced">Les objets sont a jour</string>
+    <string name="ToastAddTrackedObjectSucced">Ajout dans la liste réussi</string>
+    <string name="PseudoVendeur">Pseudo du vendeur</string>
+    <string name="DistanceObjet">Distance de l\'objet</string>
+    <string name="But_delete">Supprimer</string>
+    <string name="ToastDelObjectSucced">L\'objet a été supprimé</string>
+    <string name="app_name" translatable="false">ProjetAout</string>
+    <string name="Descriptif">Description</string>
+    <string name="Distance">Distance de l\'objet</string>
+    <string name="ToastLocalisationSucced">La localisation a été verifié</string>
+    <string name="Void" translatable="false">void</string>
+</resources>
